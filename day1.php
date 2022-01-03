@@ -117,8 +117,9 @@ switch($broage){
 
 // 1- Answer:
 
-phpinfo();
+echo phpinfo();
 
 
 ?>
+
 
