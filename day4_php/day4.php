@@ -43,13 +43,13 @@ if(!empty($_POST))
       die('Could not connect: ' . mysqli_error($conn));
    }
    
-//    echo 'Connected successfully <br> <br>';
+
    echo ' <br> <br>';
 
 
 
 
-//if($result1 ) {echo "your result";}
+
   
 
    //step 2
@@ -64,7 +64,6 @@ if(!empty($_POST))
 
 
    //step 3
-
       // output data of each row
    ?>
     <table class="table table-striped" border ="2" style="width: 50%; hight:50% ;text-align: center; ">
